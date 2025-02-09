@@ -1,0 +1,151 @@
+id,title,genre,rating,mood,setting
+1,Inception,Sci-Fi,PG-13,Exciting,Alone
+2,The Dark Knight,Action,PG-13,Thrilling,Friends
+3,Interstellar,Sci-Fi,PG-13,Inspirational,Family
+4,Parasite,Drama,R,Thought-Provoking,Alone
+5,Avengers: Endgame,Action,PG-13,Exciting,Friends
+6,The Godfather,Crime,R,Intense,Alone
+7,The Lion King,Animation,G,Heartwarming,Family
+8,Toy Story 4,Animation,G,Nostalgic,Family
+9,The Matrix,Sci-Fi,R,Mind-Bending,Alone
+10,Forrest Gump,Drama,PG-13,Inspirational,Family
+11,Pulp Fiction,Crime,R,Dark Humor,Friends
+12,The Shawshank Redemption,Drama,R,Inspirational,Alone
+13,Gladiator,Action,R,Thrilling,Alone
+14,Joker,Drama,R,Dark,Alone
+15,The Social Network,Biography,PG-13,Ambitious,Alone
+16,The Grand Budapest Hotel,Comedy,R,Funny,Friends
+17,Whiplash,Drama,R,Intense,Alone
+18,The Wolf of Wall Street,Biography,R,Funny,Friends
+19,Django Unchained,Western,R,Exciting,Friends
+20,The Revenant,Adventure,R,Survival,Alone
+21,Shutter Island,Thriller,R,Mind-Bending,Alone
+22,The Silence of the Lambs,Thriller,R,Scary,Alone
+23,Fight Club,Drama,R,Thought-Provoking,Friends
+24,Se7en,Crime,R,Dark,Alone
+25,The Green Mile,Drama,PG-13,Heartfelt,Family
+26,Titanic,Romance,PG-13,Romantic,Date Night
+27,The Pursuit of Happyness,Biography,PG,Inspirational,Family
+28,La La Land,Musical,PG-13,Romantic,Date Night
+29,Deadpool,Action,R,Funny,Friends
+30,Doctor Strange,Sci-Fi,PG-13,Mind-Bending,Friends
+31,Spider-Man: No Way Home,Action,PG-13,Exciting,Friends
+32,The Batman,Action,PG-13,Dark,Alone
+33,Thor: Ragnarok,Action,PG-13,Funny,Friends
+34,Black Panther,Action,PG-13,Empowering,Family
+35,Iron Man,Action,PG-13,Exciting,Friends
+36,A Quiet Place,Horror,PG-13,Scary,Family
+37,It,Horror,R,Scary,Friends
+38,The Conjuring,Horror,R,Scary,Alone
+39,Get Out,Horror,R,Scary,Friends
+40,Hereditary,Horror,R,Scary,Alone
+41,The Notebook,Romance,PG-13,Romantic,Date Night
+42,The Proposal,Romance,PG,Romantic,Date Night
+43,Crazy Rich Asians,Romance,PG-13,Romantic,Friends
+44,500 Days of Summer,Romance,PG-13,Romantic,Alone
+45,Pride & Prejudice,Romance,PG,Romantic,Date Night
+46,Superbad,Comedy,R,Funny,Friends
+47,21 Jump Street,Comedy,R,Funny,Friends
+48,Step Brothers,Comedy,R,Funny,Friends
+49,The Hangover,Comedy,R,Funny,Friends
+50,Dumb and Dumber,Comedy,PG-13,Funny,Friends
+51,Home Alone,Comedy,PG,Funny,Family
+52,Elf,Comedy,PG,Funny,Family
+53,The Nightmare Before Christmas,Animation,PG,Exciting,Family
+54,Coco,Animation,PG,Heartwarming,Family
+55,Up,Animation,PG,Inspirational,Family
+56,Ratatouille,Animation,G,Funny,Family
+57,Finding Nemo,Animation,G,Adventure,Family
+58,Shrek,Animation,PG,Funny,Family
+59,The Incredibles,Animation,PG,Exciting,Family
+60,Wall-E,Animation,G,Inspirational,Family
+61,Spirited Away,Animation,PG,Magical,Alone
+62,My Neighbor Totoro,Animation,G,Magical,Family
+63,Howl’s Moving Castle,Animation,PG,Magical,Family
+64,Princess Mononoke,Animation,PG-13,Adventure,Alone
+65,Akira,Animation,R,Exciting,Friends
+66,Your Name,Romance,PG,Romantic,Date Night
+67,A Silent Voice,Romance,PG-13,Inspirational,Date Night
+68,Weathering With You,Romance,PG,Romantic,Date Night
+69,5 Centimeters Per Second,Romance,PG,Melancholic,Alone
+70,Perfect Blue,Thriller,R,Scary,Alone
+71,The Girl Who Leapt Through Time,Sci-Fi,PG-13,Exciting,Alone
+72,Ghost in the Shell,Sci-Fi,R,Mind-Bending,Alone
+73,Cowboy Bebop: The Movie,Sci-Fi,PG-13,Exciting,Friends
+74,Paprika,Thriller,R,Exciting,Alone
+75,John Wick,Action,R,Exciting,Friends
+76,John Wick: Chapter 2,Action,R,Exciting,Friends
+77,John Wick: Chapter 3 - Parabellum,Action,R,Exciting,Friends
+78,John Wick: Chapter 4,Action,R,Exciting,Friends
+79,The Equalizer,Action,R,Thrilling,Alone
+80,The Equalizer 2,Action,R,Thrilling,Alone
+81,The Equalizer 3,Action,R,Thrilling,Alone
+82,Oldboy,Thriller,R,Dark,Alone
+83,Train to Busan,Horror,R,Scary,Friends
+84,The Lighthouse,Thriller,R,Dark,Alone
+85,Us,Horror,R,Scary,Friends
+86,Nope,Horror,R,Scary,Friends
+87,The Witch,Horror,R,Scary,Alone
+88,Midsommar,Horror,R,Scary,Alone
+89,The Babadook,Horror,R,Scary,Alone
+90,The Shining,Horror,R,Scary,Alone
+91,It Follows,Horror,R,Scary,Friends
+92,Sinister,Horror,R,Scary,Friends
+93,The Blair Witch Project,Horror,R,Scary,Alone
+94,The Exorcist,Horror,R,Scary,Alone
+95,Halloween,Horror,R,Scary,Friends
+96,A Nightmare on Elm Street,Horror,R,Scary,Friends
+97,Friday the 13th,Horror,R,Scary,Friends
+98,The Truman Show,Drama,PG-13,Thought-Provoking,Alone
+99,A Beautiful Mind,Biography,PG-13,Inspirational,Alone
+100,Good Will Hunting,Drama,R,Inspirational,Family
+101,The Departed,Crime,R,Thrilling,Friends
+102,Casino,Crime,R,Intense,Alone
+103,Heat,Crime,R,Thrilling,Friends
+104,American History X,Drama,R,Powerful,Alone
+105,Schindler's List,Drama,R,Emotional,Alone
+106,1917,War,R,Exciting,Alone
+107,Saving Private Ryan,War,R,Intense,Family
+108,Full Metal Jacket,War,R,Dark,Alone
+109,Dunkirk,War,PG-13,Thrilling,Friends
+110,The Pianist,Biography,R,Emotional,Alone
+111,Braveheart,History,R,Inspirational,Friends
+112,Gangs of New York,Crime,R,Historical,Friends
+113,There Will Be Blood,Drama,R,Powerful,Alone
+114,Rocky,Sports,PG,Inspirational,Family
+115,Creed,Sports,PG-13,Motivational,Friends
+116,The Fighter,Sports,R,Inspirational,Friends
+117,Raging Bull,Sports,R,Intense,Alone
+118,Million Dollar Baby,Sports,R,Heartfelt,Alone
+119,The Blind Side,Biography,PG,Feel-Good,Family
+120,Coach Carter,Sports,PG-13,Inspirational,Family
+121,Remember the Titans,Sports,PG,Inspirational,Family
+122,Moneyball,Biography,PG-13,Thought-Provoking,Alone
+123,The Social Dilemma,Documentary,PG-13,Informative,Alone
+124,Don't Look Up,Comedy,R,Satirical,Friends
+125,The Big Short,Drama,R,Informative,Alone
+126,Inside Job,Documentary,PG-13,Informative,Alone
+127,Superbad,Comedy,R,Funny,Friends
+128,21 Jump Street,Comedy,R,Funny,Friends
+129,The Hangover,Comedy,R,Funny,Friends
+130,Anchorman,Comedy,PG-13,Absurd,Friends
+131,Step Brothers,Comedy,R,Absurd,Friends
+132,Dumb and Dumber,Comedy,PG-13,Absurd,Friends
+133,Home Alone,Comedy,PG,Family Fun,Family
+134,Elf,Comedy,PG,Holiday,Family
+135,The Nightmare Before Christmas,Animation,PG,Spooky,Family
+136,Coco,Animation,PG,Emotional,Family
+137,Up,Animation,PG,Heartwarming,Family
+138,Ratatouille,Animation,G,Feel-Good,Family
+139,Finding Nemo,Animation,G,Adventure,Family
+140,Shrek,Animation,PG,Funny,Family
+141,The Incredibles,Animation,PG,Exciting,Family
+142,Wall-E,Animation,G,Inspirational,Family
+143,Spirited Away,Animation,PG,Magical,Alone
+144,My Neighbor Totoro,Animation,G,Magical,Family
+145,Howl’s Moving Castle,Animation,PG,Magical,Family
+146,Princess Mononoke,Animation,PG-13,Adventure,Alone
+147,Akira,Animation,R,Exciting,Friends
+148,Your Name,Romance,PG,Romantic,Date Night
+149,A Silent Voice,Romance,PG-13,Inspirational,Date Night
+150,Weathering With You,Romance,PG,Romantic,Date Night
