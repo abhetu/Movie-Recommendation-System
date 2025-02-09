@@ -42,7 +42,41 @@ Make sure you have the following installed:
 
 ### Backend Setup
 
-1. Clone the repository:
+ Clone the repository:
 
    ```bash
    git clone https://github.com/abhetu/Movie-Recommendation-System.git
+
+
+# 1. Navigate to the backend directory:
+cd Movie-Recommendation-System/backend
+
+# 2. Create a virtual environment (optional but recommended):
+python -m venv venv
+
+# 3. Activate the virtual environment:
+# For macOS/Linux:
+source venv/bin/activate
+
+# For Windows:
+.\venv\Scripts\activate
+
+# 4. Install the required dependencies:
+pip install -r requirements.txt
+
+# 5. Run the backend Flask server:
+python app.py
+# The server will start at http://127.0.0.1:5000
+
+
+# Frontend Setup
+
+# 1. Navigate to the frontend directory:
+cd Movie-Recommendation-System/frontend
+
+# 2. Install the required dependencies:
+npm install
+
+# 3. Start the React development server:
+npm start
+# The frontend will be available at http://localhost:3000
