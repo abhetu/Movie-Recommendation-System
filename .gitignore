@@ -1,0 +1,23 @@
+# Ignore Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environments
+/backend/venv/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore node_modules for frontend
+/frontend/node_modules/
+
+# Ignore IDE files (VSCode, JetBrains, etc.)
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore .env file for sensitive information
+.env
